@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎋 I'm currently working on: a full web application: the AirBnB clone<br>🎀 I'm looking to collaborate on: projects written in C/Python, HTML/CSS<br>🏆 I'm currently learning: Python backend frameworks (Django, Flask and Fast API)<br>🖌️ Ask me about: anything regarding health and medicine<br>🕯️ Fun Fact: I'm also a doctor
+🎋 I'm currently working on: a full web application: the AirBnB clone<br>🎀 I'm looking to collaborate on: projects written in C/Python, HTML/CSS<br>🏆 I'm currently learning: Python backend frameworks (Django, Flask and Fast API)<br>🖌️ Ask me about: anything regarding health and medicine<br>🕯️ Fun Fact: I like C
 
 
 ## 🌐 Socials:
