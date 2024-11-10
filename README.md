@@ -1,8 +1,8 @@
 # 💫 About Me:
-🎋 I'm currently working on: a full web application: the AirBnB clone<br>🎀 I'm looking to collaborate on: any interesting projects<br>🏆 I'm currently learning: Web Servers and Networks<br>🖌️ Ask me about: 😬<br>🕯️ Fun Fact: I do not like C<br> ☎️ Reach me: paitanun35@gmail.com
+🎋 I'm currently working on: a full web application: the AirBnB clone<br>🎀 I'm looking to collaborate on: any interesting projects<br>🏆 I'm currently learning: Web Servers and Networks<br>🖌️ Ask me about: 😬<br>🕯️ Fun Fact: I do not like fun facts<br> ☎️ Reach me: paitanun35@gmail.com
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/precious-aitanun) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/techdoctorP) 
 
 # 💻 Tech Stack:
