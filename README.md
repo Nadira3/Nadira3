@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎋 I'm currently working on: a full stack web application: the AirBnB clone<br>🎀 I'm looking to collaborate on: any interesting projects<br>🏆 I'm currently learning: Web Servers and Networks<br>🖌️ Ask me about: 😬<br>🕯️ Fun Fact: I do not like fun facts<br> ☎️ Reach me: paitanun35@gmail.com
+🎋 I'm currently working on: a full stack web application: the AirBnB clone<br>🎀 I'm looking to collaborate on nothing, actually. <br>🏆 I'm currently learning: Web Servers and Networks<br>🖌️ Ask me about: 😬<br>🕯️ Fun Fact: I do not like fun facts<br> ☎️ Reach me: paitanun35@gmail.com
 
 
 ### 🌐 Socials:
