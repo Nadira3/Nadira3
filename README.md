@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Hello! I'm Aitanun Precious Ikhianose, a student interested in software engineering, healthcare technology, artificial intelligence, and bioinformatics.
+
+I'm currently developing my skills in software engineering and exploring the intersection of technology and healthcare.
+
 # 💫 About Me:
 🎋 I'm currently working on: a full stack web application: the AirBnB clone<br>🎀 I'm looking to collaborate on nothing, actually. <br>🏆 I'm currently learning: AI and Machine Learning<br>🖌️ Ask me about: 😬<br>🕯️ Fun Fact: I do not like fun facts<br> ☎️ Reach me: paitanun35@gmail.com
 
